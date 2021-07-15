@@ -35,7 +35,7 @@
 	</div>
 </div>
 
-<section id="content" class="row">
+<section id="content" class="row" style="height: inherit !important;">
 	<div class="col-md-10 col-md-offset-1">
 		<?php $page->printContent(); ?>
 	</div>
